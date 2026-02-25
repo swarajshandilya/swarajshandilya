@@ -1,6 +1,6 @@
 # Swaraj Shandilya
 ## UI Technical Lead | Frontend Architect 🏛️
-**Montreal, QC** | [+1514-576-5051](tel:15145765051) | [swaraj.shandilya01@gmail.com](mailto:swaraj.shandilya01@gmail.com) | [LinkedIn](www.linkedin.com/in/swarajshandilya)
+**Montreal, QC** | [+1514-576-5051](tel:15145765051) | [swaraj.shandilya01@gmail.com](mailto:swaraj.shandilya01@gmail.com) | [LinkedIn](https://www.linkedin.com/in/swarajshandilya)
 
 ---
 
