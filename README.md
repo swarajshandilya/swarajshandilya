@@ -29,9 +29,8 @@ High-impact **UI Technical Lead** with 14 years of experience specializing in ar
 #### **Senior Tech Lead** | Axiad, Montreal
 *Sep 2022 – Sep 2025*
 * **Product:** Built React/Next.js Mesh Dashboard and high-volume search engines.
-* **Security:** Led id-wallet development (React Native/Swift) for Fortune 500 identity verification.
+* **Mobile:** Led id-wallet development (React Native/Swift) for Fortune 500 identity verification.
 
-[...Full experience in Swaraj_Shandilya_Architect.pdf...]
 
 ---
 
